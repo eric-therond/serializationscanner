@@ -1,0 +1,7 @@
+./gensignatures/java/target/*
+./node_modules/*
+./gensignatures/csharp/bin/*
+./gensignatures/csharp/obj/*
+
+
+
