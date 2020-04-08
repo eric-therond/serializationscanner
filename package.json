@@ -1,0 +1,8 @@
+{
+  "name": "serializationscanner.js",
+  "version": "0.0.1",
+  "main": "./lib/index.js",
+  "author": "eric.therond.fr@gmail.com",
+  "license": "MIT",
+  "description": ""
+}
